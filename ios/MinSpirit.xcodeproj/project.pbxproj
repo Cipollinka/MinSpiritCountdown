@@ -8,12 +8,41 @@
 
 /* Begin PBXBuildFile section */
 		00E356F31AD99517003FC87E /* MinSpiritTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* MinSpiritTests.m */; };
-		0C80B921A6F3F58F76C31292 /* libPods-MinSpirit.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-MinSpirit.a */; };
+		05F7F48444F34CF99520212C /* Roboto-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 36B93F59DC1B4856B27E5D9B /* Roboto-BlackItalic.ttf */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		7699B88040F8A987B510C191 /* libPods-MinSpirit-MinSpiritTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-MinSpirit-MinSpiritTests.a */; };
+		1661D7A70CDB461A8709FC17 /* Roboto-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 391D07A6D6394708A57B67B5 /* Roboto-Italic.ttf */; };
+		19F3228D133C41D79FF0EC1C /* Montserrat-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1AF61B350E424CC387E2FDD2 /* Montserrat-Regular.ttf */; };
+		1A7814CBB0A34C579A0883C9 /* Roboto-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1F02FA749BF14D95BCAB3799 /* Roboto-MediumItalic.ttf */; };
+		24ED536BC34C4E739A19E584 /* Roboto-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 092E53C90F404D5B8D9D6246 /* Roboto-Black.ttf */; };
+		25CC27A3853C4617B14A0F02 /* Roboto-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9298328299364C6D9C9BC0FF /* Roboto-Regular.ttf */; };
+		2E633B2D4F2E340CC60E26CE /* libPods-MinSpirit.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7A458CAA56AD07A8171F0287 /* libPods-MinSpirit.a */; };
+		310F358CF9864379BDA87991 /* MontserratAlternates-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 420E96D44F554925AF2321EC /* MontserratAlternates-Bold.ttf */; };
+		4AFF0E918B11408C89E146F1 /* Roboto-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F11E2E3783CF421A9F882A74 /* Roboto-BoldItalic.ttf */; };
+		5F325FF7E25F482AACE34003 /* RobotoMono-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F68D7C7A069A4A489B4D9DF0 /* RobotoMono-Medium.ttf */; };
+		5FCAE7C0785E419F8795D704 /* RobotoMono-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E8E43B264E344786988F4356 /* RobotoMono-SemiBold.ttf */; };
+		623E5842164545AF98694169 /* Roboto-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EB0908808E554E759064A56B /* Roboto-Light.ttf */; };
+		652999F4B6A74BA5813C3142 /* Roboto-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 475334A714F84F86A9E0D3C8 /* Roboto-LightItalic.ttf */; };
+		674ECDA5DC244EFE866407AC /* Montserrat-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CCEA62BA707F4D3BB6EB2946 /* Montserrat-Light.ttf */; };
+		730CEEC0B4A2479098D5D4B3 /* Roboto-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 071C692080474AE1A46B716D /* Roboto-Medium.ttf */; };
+		75DE748E7EA04E3283CA700D /* Montserrat-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 558BE0DDCF4B4EA3BF1498BB /* Montserrat-SemiBold.ttf */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		866D1B444D894BF8A3CDADDC /* RobotoMono-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 81F5F5B011444F8BA98BD458 /* RobotoMono-Regular.ttf */; };
+		8919808F3BE34B3AAD2E6B5B /* Roboto-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DD5DBB13AD7648D2876CF61A /* Roboto-Thin.ttf */; };
+		A126F7C7752546D0B3D5A56E /* MontserratAlternates-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 49515AFCB1954AFBAD962C63 /* MontserratAlternates-Black.ttf */; };
+		B2D7034D79954031B334C88D /* RobotoMono-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BA22240E8E2040A89A79D8D1 /* RobotoMono-Bold.ttf */; };
+		BA02B57A2D3215FA008AF1A7 /* meditation.wav in Resources */ = {isa = PBXBuildFile; fileRef = BA02B5762D3215FA008AF1A7 /* meditation.wav */; };
+		BA02B57B2D3215FA008AF1A7 /* timer_sound-2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BA02B5792D3215FA008AF1A7 /* timer_sound-2.mp3 */; };
+		BA02B57C2D3215FA008AF1A7 /* meditation-2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BA02B5772D3215FA008AF1A7 /* meditation-2.mp3 */; };
+		BA02B57D2D3215FA008AF1A7 /* timer_sound.wav in Resources */ = {isa = PBXBuildFile; fileRef = BA02B5782D3215FA008AF1A7 /* timer_sound.wav */; };
+		BAC723432D2F4057006BFF16 /* timer_sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BAC723422D2F4057006BFF16 /* timer_sound.mp3 */; };
+		BAC723442D2F4057006BFF16 /* meditation.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BAC723412D2F4057006BFF16 /* meditation.mp3 */; };
+		C88CD44FB9DF6FEBB453143F /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 3EAF79EA6B03C8D9783A0770 /* PrivacyInfo.xcprivacy */; };
+		CD0757440D334DC48592D3ED /* Roboto-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C77DE946ED4C4EADAEE4E405 /* Roboto-ThinItalic.ttf */; };
+		CDCF4CBFB75446CFACF2A32A /* Roboto-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F455C3365C654739BE1C1705 /* Roboto-Bold.ttf */; };
+		F2CD3712DBC6F15AE1B6E39A /* libPods-MinSpirit-MinSpiritTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 68F69483D180CDEECBDF6576 /* libPods-MinSpirit-MinSpiritTests.a */; };
+		F93804212E1C4CB2A995D81E /* RobotoMono-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 875124E70A554532B7D549D7 /* RobotoMono-SemiBoldItalic.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -30,21 +59,50 @@
 		00E356EE1AD99517003FC87E /* MinSpiritTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MinSpiritTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* MinSpiritTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MinSpiritTests.m; sourceTree = "<group>"; };
+		071C692080474AE1A46B716D /* Roboto-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Medium.ttf"; path = "../src/assets/fonts/Roboto-Medium.ttf"; sourceTree = "<group>"; };
+		092E53C90F404D5B8D9D6246 /* Roboto-Black.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Black.ttf"; path = "../src/assets/fonts/Roboto-Black.ttf"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* MinSpirit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MinSpirit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = MinSpirit/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = AppDelegate.mm; path = MinSpirit/AppDelegate.mm; sourceTree = "<group>"; };
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = MinSpirit/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = MinSpirit/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = MinSpirit/main.m; sourceTree = "<group>"; };
-	    13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = MinSpirit/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
-		19F6CBCC0A4E27FBF8BF4A61 /* libPods-MinSpirit-MinSpiritTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MinSpirit-MinSpiritTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		3B4392A12AC88292D35C810B /* Pods-MinSpirit.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MinSpirit.debug.xcconfig"; path = "Target Support Files/Pods-MinSpirit/Pods-MinSpirit.debug.xcconfig"; sourceTree = "<group>"; };
-		5709B34CF0A7D63546082F79 /* Pods-MinSpirit.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MinSpirit.release.xcconfig"; path = "Target Support Files/Pods-MinSpirit/Pods-MinSpirit.release.xcconfig"; sourceTree = "<group>"; };
-		5B7EB9410499542E8C5724F5 /* Pods-MinSpirit-MinSpiritTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MinSpirit-MinSpiritTests.debug.xcconfig"; path = "Target Support Files/Pods-MinSpirit-MinSpiritTests/Pods-MinSpirit-MinSpiritTests.debug.xcconfig"; sourceTree = "<group>"; };
-		5DCACB8F33CDC322A6C60F78 /* libPods-MinSpirit.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MinSpirit.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = MinSpirit/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		1AF61B350E424CC387E2FDD2 /* Montserrat-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-Regular.ttf"; path = "../src/assets/fonts/Montserrat-Regular.ttf"; sourceTree = "<group>"; };
+		1F02FA749BF14D95BCAB3799 /* Roboto-MediumItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-MediumItalic.ttf"; path = "../src/assets/fonts/Roboto-MediumItalic.ttf"; sourceTree = "<group>"; };
+		36B93F59DC1B4856B27E5D9B /* Roboto-BlackItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-BlackItalic.ttf"; path = "../src/assets/fonts/Roboto-BlackItalic.ttf"; sourceTree = "<group>"; };
+		391D07A6D6394708A57B67B5 /* Roboto-Italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Italic.ttf"; path = "../src/assets/fonts/Roboto-Italic.ttf"; sourceTree = "<group>"; };
+		3EAF79EA6B03C8D9783A0770 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xml; name = PrivacyInfo.xcprivacy; path = MinSpirit/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		420E96D44F554925AF2321EC /* MontserratAlternates-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "MontserratAlternates-Bold.ttf"; path = "../src/assets/fonts/MontserratAlternates-Bold.ttf"; sourceTree = "<group>"; };
+		475334A714F84F86A9E0D3C8 /* Roboto-LightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-LightItalic.ttf"; path = "../src/assets/fonts/Roboto-LightItalic.ttf"; sourceTree = "<group>"; };
+		49515AFCB1954AFBAD962C63 /* MontserratAlternates-Black.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "MontserratAlternates-Black.ttf"; path = "../src/assets/fonts/MontserratAlternates-Black.ttf"; sourceTree = "<group>"; };
+		558BE0DDCF4B4EA3BF1498BB /* Montserrat-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-SemiBold.ttf"; path = "../src/assets/fonts/Montserrat-SemiBold.ttf"; sourceTree = "<group>"; };
+		64BFBF49DEDBF8664A7146D2 /* Pods-MinSpirit-MinSpiritTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MinSpirit-MinSpiritTests.debug.xcconfig"; path = "Target Support Files/Pods-MinSpirit-MinSpiritTests/Pods-MinSpirit-MinSpiritTests.debug.xcconfig"; sourceTree = "<group>"; };
+		68F69483D180CDEECBDF6576 /* libPods-MinSpirit-MinSpiritTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MinSpirit-MinSpiritTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7A458CAA56AD07A8171F0287 /* libPods-MinSpirit.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MinSpirit.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = MinSpirit/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		89C6BE57DB24E9ADA2F236DE /* Pods-MinSpirit-MinSpiritTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MinSpirit-MinSpiritTests.release.xcconfig"; path = "Target Support Files/Pods-MinSpirit-MinSpiritTests/Pods-MinSpirit-MinSpiritTests.release.xcconfig"; sourceTree = "<group>"; };
+		81F5F5B011444F8BA98BD458 /* RobotoMono-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "RobotoMono-Regular.ttf"; path = "../src/assets/fonts/RobotoMono-Regular.ttf"; sourceTree = "<group>"; };
+		875124E70A554532B7D549D7 /* RobotoMono-SemiBoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "RobotoMono-SemiBoldItalic.ttf"; path = "../src/assets/fonts/RobotoMono-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
+		9298328299364C6D9C9BC0FF /* Roboto-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Regular.ttf"; path = "../src/assets/fonts/Roboto-Regular.ttf"; sourceTree = "<group>"; };
+		B35BCB91154287F92286ED12 /* Pods-MinSpirit.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MinSpirit.debug.xcconfig"; path = "Target Support Files/Pods-MinSpirit/Pods-MinSpirit.debug.xcconfig"; sourceTree = "<group>"; };
+		BA02B5762D3215FA008AF1A7 /* meditation.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = meditation.wav; sourceTree = "<group>"; };
+		BA02B5772D3215FA008AF1A7 /* meditation-2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "meditation-2.mp3"; sourceTree = "<group>"; };
+		BA02B5782D3215FA008AF1A7 /* timer_sound.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = timer_sound.wav; sourceTree = "<group>"; };
+		BA02B5792D3215FA008AF1A7 /* timer_sound-2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "timer_sound-2.mp3"; sourceTree = "<group>"; };
+		BA22240E8E2040A89A79D8D1 /* RobotoMono-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "RobotoMono-Bold.ttf"; path = "../src/assets/fonts/RobotoMono-Bold.ttf"; sourceTree = "<group>"; };
+		BAC723412D2F4057006BFF16 /* meditation.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = meditation.mp3; sourceTree = "<group>"; };
+		BAC723422D2F4057006BFF16 /* timer_sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = timer_sound.mp3; sourceTree = "<group>"; };
+		C77DE946ED4C4EADAEE4E405 /* Roboto-ThinItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-ThinItalic.ttf"; path = "../src/assets/fonts/Roboto-ThinItalic.ttf"; sourceTree = "<group>"; };
+		CCEA62BA707F4D3BB6EB2946 /* Montserrat-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Montserrat-Light.ttf"; path = "../src/assets/fonts/Montserrat-Light.ttf"; sourceTree = "<group>"; };
+		DD5DBB13AD7648D2876CF61A /* Roboto-Thin.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Thin.ttf"; path = "../src/assets/fonts/Roboto-Thin.ttf"; sourceTree = "<group>"; };
+		E8E43B264E344786988F4356 /* RobotoMono-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "RobotoMono-SemiBold.ttf"; path = "../src/assets/fonts/RobotoMono-SemiBold.ttf"; sourceTree = "<group>"; };
+		EB0908808E554E759064A56B /* Roboto-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Light.ttf"; path = "../src/assets/fonts/Roboto-Light.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		F11E2E3783CF421A9F882A74 /* Roboto-BoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-BoldItalic.ttf"; path = "../src/assets/fonts/Roboto-BoldItalic.ttf"; sourceTree = "<group>"; };
+		F455C3365C654739BE1C1705 /* Roboto-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Roboto-Bold.ttf"; path = "../src/assets/fonts/Roboto-Bold.ttf"; sourceTree = "<group>"; };
+		F68D7C7A069A4A489B4D9DF0 /* RobotoMono-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "RobotoMono-Medium.ttf"; path = "../src/assets/fonts/RobotoMono-Medium.ttf"; sourceTree = "<group>"; };
+		FCC4C5FEB0B5ECDF5D14D34F /* Pods-MinSpirit.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MinSpirit.release.xcconfig"; path = "Target Support Files/Pods-MinSpirit/Pods-MinSpirit.release.xcconfig"; sourceTree = "<group>"; };
+		FCF82DEDACD12D753D8C30C8 /* Pods-MinSpirit-MinSpiritTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MinSpirit-MinSpiritTests.release.xcconfig"; path = "Target Support Files/Pods-MinSpirit-MinSpiritTests/Pods-MinSpirit-MinSpiritTests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,7 +110,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7699B88040F8A987B510C191 /* libPods-MinSpirit-MinSpiritTests.a in Frameworks */,
+				F2CD3712DBC6F15AE1B6E39A /* libPods-MinSpirit-MinSpiritTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -60,7 +118,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0C80B921A6F3F58F76C31292 /* libPods-MinSpirit.a in Frameworks */,
+				2E633B2D4F2E340CC60E26CE /* libPods-MinSpirit.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -94,6 +152,7 @@
 				81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */,
 				13B07FB71A68108700A75B9A /* main.m */,
 				13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */,
+				3EAF79EA6B03C8D9783A0770 /* PrivacyInfo.xcprivacy */,
 			);
 			name = MinSpirit;
 			sourceTree = "<group>";
@@ -102,8 +161,8 @@
 			isa = PBXGroup;
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
-				5DCACB8F33CDC322A6C60F78 /* libPods-MinSpirit.a */,
-				19F6CBCC0A4E27FBF8BF4A61 /* libPods-MinSpirit-MinSpiritTests.a */,
+				7A458CAA56AD07A8171F0287 /* libPods-MinSpirit.a */,
+				68F69483D180CDEECBDF6576 /* libPods-MinSpirit-MinSpiritTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -124,6 +183,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				C9D7CE7D32B74A6DBA3B2748 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -142,12 +202,47 @@
 		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				3B4392A12AC88292D35C810B /* Pods-MinSpirit.debug.xcconfig */,
-				5709B34CF0A7D63546082F79 /* Pods-MinSpirit.release.xcconfig */,
-				5B7EB9410499542E8C5724F5 /* Pods-MinSpirit-MinSpiritTests.debug.xcconfig */,
-				89C6BE57DB24E9ADA2F236DE /* Pods-MinSpirit-MinSpiritTests.release.xcconfig */,
+				B35BCB91154287F92286ED12 /* Pods-MinSpirit.debug.xcconfig */,
+				FCC4C5FEB0B5ECDF5D14D34F /* Pods-MinSpirit.release.xcconfig */,
+				64BFBF49DEDBF8664A7146D2 /* Pods-MinSpirit-MinSpiritTests.debug.xcconfig */,
+				FCF82DEDACD12D753D8C30C8 /* Pods-MinSpirit-MinSpiritTests.release.xcconfig */,
 			);
 			path = Pods;
+			sourceTree = "<group>";
+		};
+		C9D7CE7D32B74A6DBA3B2748 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				BA02B5762D3215FA008AF1A7 /* meditation.wav */,
+				BA02B5772D3215FA008AF1A7 /* meditation-2.mp3 */,
+				BA02B5782D3215FA008AF1A7 /* timer_sound.wav */,
+				BA02B5792D3215FA008AF1A7 /* timer_sound-2.mp3 */,
+				BAC723412D2F4057006BFF16 /* meditation.mp3 */,
+				BAC723422D2F4057006BFF16 /* timer_sound.mp3 */,
+				CCEA62BA707F4D3BB6EB2946 /* Montserrat-Light.ttf */,
+				1AF61B350E424CC387E2FDD2 /* Montserrat-Regular.ttf */,
+				558BE0DDCF4B4EA3BF1498BB /* Montserrat-SemiBold.ttf */,
+				49515AFCB1954AFBAD962C63 /* MontserratAlternates-Black.ttf */,
+				420E96D44F554925AF2321EC /* MontserratAlternates-Bold.ttf */,
+				092E53C90F404D5B8D9D6246 /* Roboto-Black.ttf */,
+				36B93F59DC1B4856B27E5D9B /* Roboto-BlackItalic.ttf */,
+				F455C3365C654739BE1C1705 /* Roboto-Bold.ttf */,
+				F11E2E3783CF421A9F882A74 /* Roboto-BoldItalic.ttf */,
+				391D07A6D6394708A57B67B5 /* Roboto-Italic.ttf */,
+				EB0908808E554E759064A56B /* Roboto-Light.ttf */,
+				475334A714F84F86A9E0D3C8 /* Roboto-LightItalic.ttf */,
+				071C692080474AE1A46B716D /* Roboto-Medium.ttf */,
+				1F02FA749BF14D95BCAB3799 /* Roboto-MediumItalic.ttf */,
+				9298328299364C6D9C9BC0FF /* Roboto-Regular.ttf */,
+				DD5DBB13AD7648D2876CF61A /* Roboto-Thin.ttf */,
+				C77DE946ED4C4EADAEE4E405 /* Roboto-ThinItalic.ttf */,
+				BA22240E8E2040A89A79D8D1 /* RobotoMono-Bold.ttf */,
+				F68D7C7A069A4A489B4D9DF0 /* RobotoMono-Medium.ttf */,
+				81F5F5B011444F8BA98BD458 /* RobotoMono-Regular.ttf */,
+				E8E43B264E344786988F4356 /* RobotoMono-SemiBold.ttf */,
+				875124E70A554532B7D549D7 /* RobotoMono-SemiBoldItalic.ttf */,
+			);
+			name = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -157,12 +252,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "MinSpiritTests" */;
 			buildPhases = (
-				A55EABD7B0C7F3A422A6CC61 /* [CP] Check Pods Manifest.lock */,
+				40D8C72AD62066BF128E70D9 /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
 				00E356EB1AD99517003FC87E /* Frameworks */,
 				00E356EC1AD99517003FC87E /* Resources */,
-				C59DA0FBD6956966B86A3779 /* [CP] Embed Pods Frameworks */,
-				F6A41C54EA430FDDC6A6ED99 /* [CP] Copy Pods Resources */,
+				670C9A44133D2C4C04A76971 /* [CP] Embed Pods Frameworks */,
+				034C1508CF277B07AAB4FCE5 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -178,13 +273,13 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "MinSpirit" */;
 			buildPhases = (
-				C38B50BA6285516D6DCD4F65 /* [CP] Check Pods Manifest.lock */,
+				EA5427E86F5A85B799886C93 /* [CP] Check Pods Manifest.lock */,
 				13B07F871A680F5B00A75B9A /* Sources */,
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
-				00EEFC60759A1932668264C0 /* [CP] Embed Pods Frameworks */,
-				E235C05ADACE081382539298 /* [CP] Copy Pods Resources */,
+				DE6563773F7898C80A34ECB9 /* [CP] Embed Pods Frameworks */,
+				0F149B4DFDAEFCD2EF1056F8 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -245,6 +340,35 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				BA02B57A2D3215FA008AF1A7 /* meditation.wav in Resources */,
+				BA02B57B2D3215FA008AF1A7 /* timer_sound-2.mp3 in Resources */,
+				BA02B57C2D3215FA008AF1A7 /* meditation-2.mp3 in Resources */,
+				BA02B57D2D3215FA008AF1A7 /* timer_sound.wav in Resources */,
+				C88CD44FB9DF6FEBB453143F /* PrivacyInfo.xcprivacy in Resources */,
+				674ECDA5DC244EFE866407AC /* Montserrat-Light.ttf in Resources */,
+				BAC723432D2F4057006BFF16 /* timer_sound.mp3 in Resources */,
+				BAC723442D2F4057006BFF16 /* meditation.mp3 in Resources */,
+				19F3228D133C41D79FF0EC1C /* Montserrat-Regular.ttf in Resources */,
+				75DE748E7EA04E3283CA700D /* Montserrat-SemiBold.ttf in Resources */,
+				A126F7C7752546D0B3D5A56E /* MontserratAlternates-Black.ttf in Resources */,
+				310F358CF9864379BDA87991 /* MontserratAlternates-Bold.ttf in Resources */,
+				24ED536BC34C4E739A19E584 /* Roboto-Black.ttf in Resources */,
+				05F7F48444F34CF99520212C /* Roboto-BlackItalic.ttf in Resources */,
+				CDCF4CBFB75446CFACF2A32A /* Roboto-Bold.ttf in Resources */,
+				4AFF0E918B11408C89E146F1 /* Roboto-BoldItalic.ttf in Resources */,
+				1661D7A70CDB461A8709FC17 /* Roboto-Italic.ttf in Resources */,
+				623E5842164545AF98694169 /* Roboto-Light.ttf in Resources */,
+				652999F4B6A74BA5813C3142 /* Roboto-LightItalic.ttf in Resources */,
+				730CEEC0B4A2479098D5D4B3 /* Roboto-Medium.ttf in Resources */,
+				1A7814CBB0A34C579A0883C9 /* Roboto-MediumItalic.ttf in Resources */,
+				25CC27A3853C4617B14A0F02 /* Roboto-Regular.ttf in Resources */,
+				8919808F3BE34B3AAD2E6B5B /* Roboto-Thin.ttf in Resources */,
+				CD0757440D334DC48592D3ED /* Roboto-ThinItalic.ttf in Resources */,
+				B2D7034D79954031B334C88D /* RobotoMono-Bold.ttf in Resources */,
+				5F325FF7E25F482AACE34003 /* RobotoMono-Medium.ttf in Resources */,
+				866D1B444D894BF8A3CDADDC /* RobotoMono-Regular.ttf in Resources */,
+				5FCAE7C0785E419F8795D704 /* RobotoMono-SemiBold.ttf in Resources */,
+				F93804212E1C4CB2A995D81E /* RobotoMono-SemiBoldItalic.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -253,7 +377,7 @@
 /* Begin PBXShellScriptBuildPhase section */
 		00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */ = {
 			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
+			buildActionMask = 8;
 			files = (
 			);
 			inputPaths = (
@@ -263,28 +387,45 @@
 			name = "Bundle React Native code and images";
 			outputPaths = (
 			);
-			runOnlyForDeploymentPostprocessing = 0;
+			runOnlyForDeploymentPostprocessing = 1;
 			shellPath = /bin/sh;
 			shellScript = "set -e\n\nWITH_ENVIRONMENT=\"$REACT_NATIVE_PATH/scripts/xcode/with-environment.sh\"\nREACT_NATIVE_XCODE=\"$REACT_NATIVE_PATH/scripts/react-native-xcode.sh\"\n\n/bin/sh -c \"$WITH_ENVIRONMENT $REACT_NATIVE_XCODE\"\n";
 		};
-		00EEFC60759A1932668264C0 /* [CP] Embed Pods Frameworks */ = {
+		034C1508CF277B07AAB4FCE5 /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-MinSpirit/Pods-MinSpirit-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-MinSpirit-MinSpiritTests/Pods-MinSpirit-MinSpiritTests-resources-${CONFIGURATION}-input-files.xcfilelist",
 			);
-			name = "[CP] Embed Pods Frameworks";
+			name = "[CP] Copy Pods Resources";
 			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-MinSpirit/Pods-MinSpirit-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+				"${PODS_ROOT}/Target Support Files/Pods-MinSpirit-MinSpiritTests/Pods-MinSpirit-MinSpiritTests-resources-${CONFIGURATION}-output-files.xcfilelist",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-MinSpirit/Pods-MinSpirit-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-MinSpirit-MinSpiritTests/Pods-MinSpirit-MinSpiritTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		A55EABD7B0C7F3A422A6CC61 /* [CP] Check Pods Manifest.lock */ = {
+		0F149B4DFDAEFCD2EF1056F8 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-MinSpirit/Pods-MinSpirit-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-MinSpirit/Pods-MinSpirit-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-MinSpirit/Pods-MinSpirit-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		40D8C72AD62066BF128E70D9 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -306,7 +447,41 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		C38B50BA6285516D6DCD4F65 /* [CP] Check Pods Manifest.lock */ = {
+		670C9A44133D2C4C04A76971 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-MinSpirit-MinSpiritTests/Pods-MinSpirit-MinSpiritTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-MinSpirit-MinSpiritTests/Pods-MinSpirit-MinSpiritTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-MinSpirit-MinSpiritTests/Pods-MinSpirit-MinSpiritTests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		DE6563773F7898C80A34ECB9 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-MinSpirit/Pods-MinSpirit-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-MinSpirit/Pods-MinSpirit-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-MinSpirit/Pods-MinSpirit-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		EA5427E86F5A85B799886C93 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -326,57 +501,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-		C59DA0FBD6956966B86A3779 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-MinSpirit-MinSpiritTests/Pods-MinSpirit-MinSpiritTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-MinSpirit-MinSpiritTests/Pods-MinSpirit-MinSpiritTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-MinSpirit-MinSpiritTests/Pods-MinSpirit-MinSpiritTests-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		E235C05ADACE081382539298 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-MinSpirit/Pods-MinSpirit-resources-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Copy Pods Resources";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-MinSpirit/Pods-MinSpirit-resources-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-MinSpirit/Pods-MinSpirit-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		F6A41C54EA430FDDC6A6ED99 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-MinSpirit-MinSpiritTests/Pods-MinSpirit-MinSpiritTests-resources-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Copy Pods Resources";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-MinSpirit-MinSpiritTests/Pods-MinSpirit-MinSpiritTests-resources-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-MinSpirit-MinSpiritTests/Pods-MinSpirit-MinSpiritTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -412,7 +536,7 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5B7EB9410499542E8C5724F5 /* Pods-MinSpirit-MinSpiritTests.debug.xcconfig */;
+			baseConfigurationReference = 64BFBF49DEDBF8664A7146D2 /* Pods-MinSpirit-MinSpiritTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -431,7 +555,7 @@
 					"-lc++",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.minspirit.countdown.app;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MinSpirit.app/MinSpirit";
 			};
@@ -439,7 +563,7 @@
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 89C6BE57DB24E9ADA2F236DE /* Pods-MinSpirit-MinSpiritTests.release.xcconfig */;
+			baseConfigurationReference = FCF82DEDACD12D753D8C30C8 /* Pods-MinSpirit-MinSpiritTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
@@ -455,7 +579,7 @@
 					"-lc++",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.minspirit.countdown.app;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MinSpirit.app/MinSpirit";
 			};
@@ -463,11 +587,12 @@
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3B4392A12AC88292D35C810B /* Pods-MinSpirit.debug.xcconfig */;
+			baseConfigurationReference = B35BCB91154287F92286ED12 /* Pods-MinSpirit.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = MinSpirit/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -480,7 +605,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.minspirit.countdown.app;
 				PRODUCT_NAME = MinSpirit;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
@@ -490,11 +615,12 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5709B34CF0A7D63546082F79 /* Pods-MinSpirit.release.xcconfig */;
+			baseConfigurationReference = FCC4C5FEB0B5ECDF5D14D34F /* Pods-MinSpirit.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = MinSpirit/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -506,7 +632,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.minspirit.countdown.app;
 				PRODUCT_NAME = MinSpirit;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -517,6 +643,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CC = "";
 				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "c++20";
 				CLANG_CXX_LIBRARY = "libc++";
@@ -544,6 +671,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
+				CXX = "";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "";
@@ -563,6 +691,8 @@
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
+				LD = "";
+				LDPLUSPLUS = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					/usr/lib/swift,
 					"$(inherited)",
@@ -582,7 +712,10 @@
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 					"-DFOLLY_HAVE_CLOCK_GETTIME=1",
 				);
+				OTHER_LDFLAGS = "$(inherited)  ";
+				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
+				USE_HERMES = true;
 			};
 			name = Debug;
 		};
@@ -590,6 +723,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CC = "";
 				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "c++20";
 				CLANG_CXX_LIBRARY = "libc++";
@@ -617,6 +751,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = YES;
+				CXX = "";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "";
@@ -629,6 +764,8 @@
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
+				LD = "";
+				LDPLUSPLUS = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					/usr/lib/swift,
 					"$(inherited)",
@@ -647,7 +784,10 @@
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 					"-DFOLLY_HAVE_CLOCK_GETTIME=1",
 				);
+				OTHER_LDFLAGS = "$(inherited)  ";
+				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
+				USE_HERMES = true;
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
